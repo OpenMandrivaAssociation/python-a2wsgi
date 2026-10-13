@@ -3,7 +3,7 @@
 
 Name:		python-a2wsgi
 Version:	1.10.10
-Release:	1
+Release:	2
 Summary:	Convert WSGI app to ASGI app or ASGI app to WSGI app
 URL:		https://pypi.org/project/a2wsgi/
 License:	Apache-2.0
